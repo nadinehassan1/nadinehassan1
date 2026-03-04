@@ -7,7 +7,7 @@ Computer Science Student passionate about **Artificial Intelligence, Machine Lea
 ## About Me
 
 • B.Sc. Computer Science — Arab Academy for Science & Technology  
-• Interested in AI, Machine Learning, and Data Science  
+• Interested in 📊 Data Analysis , 🤖 Machine Learning , 💻 Programming 
 • Currently learning Python for Data Analysis and Machine Learning  
 • Building projects to strengthen my practical skills
 
