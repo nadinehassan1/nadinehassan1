@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nadine Hassan 👋
 
-<!--
-**nadinehassan1/nadinehassan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student passionate about **Artificial Intelligence, Machine Learning, and Data Analysis**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+• B.Sc. Computer Science — Arab Academy for Science & Technology  
+• Interested in AI, Machine Learning, and Data Science  
+• Currently learning Python for Data Analysis and Machine Learning  
+• Building projects to strengthen my practical skills
+
+---
+
+## Technical Skills
+
+Python  
+NumPy  
+Pandas  
+scikit-learn
+Visulaizations
+Data Analysis  
+Machine Learning Basics  
+Java  
+C++  
+HTML / CSS / PHP
+
+---
+
+## Featured Projects
+
+### IMDb Top 1000 Movies Data Analysis
+Exploratory data analysis and regression modeling on the IMDb Top 1000 dataset using Python.
+
+Tools used:
+Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+
+Repository:
+https://github.com/nadinehassan1/imdb-top-1000-movie-analysis
+
+---
+
+## Connect With Me
+
+LinkedIn  
+www.linkedin.com/in/nadine-hassan-1bb5472a6
