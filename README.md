@@ -21,10 +21,10 @@ NumPy
 Pandas  
 scikit-learn
 Visulaizations
-Data Analysis  
-Machine Learning Basics  
-Java  
-C++  
+Data Analysis
+Machine Learning Basics 
+Java
+C++
 HTML / CSS / PHP
 
 ---
